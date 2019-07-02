@@ -1,0 +1,16 @@
+.basic-header{
+    text-align: center;
+    font-family: Helvetica, sans-serif
+}
+
+.email-form{
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-family: Helvetica, sans-serif
+}
+
+.email-form button{
+    width: 10%;
+    height: auto;
+}
