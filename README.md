@@ -24,12 +24,14 @@ in your terminal.
 
 ## Roadmap
 
-Uncertain. Could go one of two ways:
+* REFACTOR.
+
+Other than that, it's uncertain. Could go one of two ways:
 
 * Improve upon the visuals and turn it into a template website w/ form submission for inquiries
 
 Or,
 
-* Simplify and refactor it into a proper npm module.
+* Simplify and refactor it into a proper lightweight npm module.
 
 
